@@ -4,10 +4,7 @@
 AirBmb.com invests in technology that makes travel so easy, to provide unforgettable experiences and a range of travel options and great accommodations, from hotels to stay around the world, for millions of travelers seamlessl . Behind every stay is a real person who can give you the details you need to check in and feel at home. 
 
 
-# Wireframe:
-![](image.png)
-![](image1.png)
-![](image2.png)
+
 ![](demo/demo.mp4)
 
 <img src="https://media.giphy.com/media/movRAj4zzG2Lms3arp/giphy.gif">
